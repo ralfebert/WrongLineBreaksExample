@@ -2,12 +2,12 @@
 
 See this example project or the following code snippets.
 
-The code needs to run in a project localized in German + device or simulator running in German.
+The code needs to run in a project localized in German + device or simulator running with German language.
 
 Reproduced on:
 
-- iOS 18.2.1 on device (iPhone 15 Pro and iPad Pro 11“ 2nd gen)
-- iOS 18.2 on Simulator (iPad Pro (11-inch) (4th generation), iPhone 13 mini) -  device size seems to matter, f.e. ListExample doesn't reproduce the issue on iPhone 16 Simulator
+- iOS 18.5 on device (iPhone 15 Pro and iPad Pro 11“ 2nd gen)
+- iOS 26 Beta 3 on Simulator (iPhone 16)
 
 Example snippets:
 
